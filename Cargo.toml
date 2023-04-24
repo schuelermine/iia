@@ -1,0 +1,10 @@
+[package]
+name = "iia"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+readme = "README.md"
+description = "IntoIterator enabled iterator adapters"
+repository = "https://github.com/schuelermine/iia"
+keywords = ["no-std", "iterators"]
+categories = ["no-std", "no-std::no-alloc"]
