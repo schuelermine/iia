@@ -18,6 +18,7 @@
 //! for (i, j) in rev([1, 2, 3]).enumerate() {
 //!     assert_eq!(i, 3 - j);
 //! }
+//! ```
 
 use core::iter::{
     Chain, Cloned, Copied, Cycle, Enumerate, Filter, FilterMap, FlatMap, Flatten, Fuse, Inspect,
